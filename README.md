@@ -4,11 +4,11 @@ This repository contains TypeScript codes for various Solana blockchain utilitie
 
 ## Contents
 
-1. [Generate Keypair](keypair-generator)
-2. [Check Balance](check-balance)
-3. [Get Keypair](get-keypair)
-4. [Transfer](transfer)
-5. [Send Ping Transaction](send-ping-transaction)
+1. [Generate Keypair](#keypair-generator)
+2. [Check Balance](#check-balance)
+3. [Get Keypair](#get-keypair)
+4. [Transfer](#transfer)
+5. [Send Ping Transaction](#send-ping-transaction)
 
 ## Generate Keypair <a id='keypair-generator'></a>
 
